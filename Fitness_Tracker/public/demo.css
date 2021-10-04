@@ -1,0 +1,109 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#loginWorkoutImage {
+  max-width: 70%;
+  align-self: center;
+  padding-top: 40px;
+}
+
+#loginImage {
+  display: flex;
+  flex-direction: column;
+}
+
+#tractivityLogo {
+  max-width: 70%;
+  align-self: center;
+}
+
+header {
+  font-size: larger;
+  font-weight: bold;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  padding: 15px;
+  background-color: #333333;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 700px;
+  flex-grow: 1;
+}
+
+button {
+  padding: 0px;
+  background-color: #333333;
+  cursor: pointer;
+}
+
+.subtitle {
+  padding: 10px 40px;
+  padding-bottom: 40px;
+}
+
+#welcomeMsg {
+  color: #53e0cd;
+  font-size: medium;
+  font-weight: bold;
+  padding: 10px 0px;
+}
+
+#loginText {
+  color: white;
+  padding-bottom: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    flex-direction: row;
+    background-color: #333333;
+  }
+
+  #loginImage {
+    width: 55%;
+    
+    background-color: #f2f2f2;
+    padding: 35% 0%;
+  }
+
+  .subtitle {
+  padding: 0px 30%;
+  font-size: large;
+  }
+
+
+  main {
+    width: 45%;
+  }
+
+  #tractivityLogo {
+    max-width: 40%;
+    padding-bottom: 40px;
+  }
+
+  #welcomeMsg {
+    padding-bottom: 40px;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  #loginImage {
+    padding: 220px 0%;
+  }
+
+  body {
+    max-height: 800px;
+  }
+}
