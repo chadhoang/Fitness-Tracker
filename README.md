@@ -7,5 +7,5 @@ Website: https://fitness-3-chadhoang.ecs162instruct.repl.co/
 ![Home](Images/tractivity-home.png)
 ![Barchart](Images/barchart.png)
 ![Mobile Login](Images/tractivity-mobile-login.png)
-![Mobile Home](Images/tractivity-mobile-login.png)
+![Mobile Home](Images/tractivity-mobile.png)
 
