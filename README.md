@@ -9,8 +9,14 @@ Website: https://fitness-3-chadhoang.ecs162instruct.repl.co/
 ![Login](Images/tractivity-login.png)
 
 - ### Track your past fitness logs, plan for future activites, and obtain reminders confirming you completed your activity sessions!
+
 ![Home](Images/tractivity-home.png)
+
+- ### Visualize your fitness activity data!
+
 ![Barchart](Images/barchart.png)
-![Mobile Login](Images/tractivity-mobile-login.png)
-![Mobile Home](Images/tractivity-mobile.png)
+
+- ### Fitness Tracker also compatible with mobile devices!
+
+![Mobile Login](Images/tractivity-mobile-login.png) ![Mobile Home](Images/tractivity-mobile.png)
 
