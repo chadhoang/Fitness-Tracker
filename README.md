@@ -18,5 +18,7 @@ Website: https://fitness-3-chadhoang.ecs162instruct.repl.co/
 
 - ### Fitness Tracker also compatible with mobile devices!
 
-![Mobile Login](Images/tractivity-mobile-login.png) ![Mobile Home](Images/tractivity-mobile.png)
+![Mobile Login](Images/tractivity-mobile-login.png) 
+
+![Mobile Home](Images/tractivity-mobile.png)
 
