@@ -5,7 +5,11 @@ Website: https://fitness-3-chadhoang.ecs162instruct.repl.co/
 
 ## Features
 - Login with Google to keep your personal account secure!
+
+
 ![Login](Images/tractivity-login.png)
+
+
 - Track your past fitness logs, and plan for future activites, and obtain reminders confirming you completed your planned activities!
 ![Home](Images/tractivity-home.png)
 ![Barchart](Images/barchart.png)
