@@ -22,3 +22,10 @@ Website: https://fitness-3-chadhoang.ecs162instruct.repl.co/
 
 ![Mobile Home](Images/tractivity-mobile.png)
 
+## Lessons Learned
+- Implementing 3rd party authentication onto applications
+- Security benefits of using a trusted 3rd party to authenticate
+- GET and POST requests
+- Storing and accessing data using SQL
+- UX design using HTML/CSS
+- Working with JSON data 
