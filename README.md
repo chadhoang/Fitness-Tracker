@@ -3,6 +3,9 @@ Web application to keep track of your fitness logs!
 
 Website: https://fitness-3-chadhoang.ecs162instruct.repl.co/
 
+## Demo
+[![Sudoku Demo Thumbnail](Images/sudokuDemo.png)](https://youtu.be/DnhbtKAeGYk)
+
 ## Features
 - ### Login with Google to keep your personal account secure!
 
